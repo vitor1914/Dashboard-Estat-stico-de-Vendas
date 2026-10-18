@@ -46,8 +46,8 @@ Média, mediana e moda/
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
-cd NOME_DO_REPOSITORIO
+git clone
+cd 
 ```
 
 Substitua os valores acima pelo endereço e pelo nome reais do seu repositório.
