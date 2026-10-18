@@ -1,0 +1,40 @@
+
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+
+# Cache e arquivos compilados Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações locais do VS Code
+.vscode/
+
+# Configurações locais e variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.bak
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Arquivos de dados locais
+# Mantenha vendas.csv rastreável somente se contiver dados fictícios
+# ou dados autorizados para publicação.
+# vendas.csv
+
+# Banco de dados local
+*.db
+*.sqlite
+*.sqlite3

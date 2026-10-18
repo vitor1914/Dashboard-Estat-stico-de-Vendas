@@ -1,0 +1,18 @@
+﻿Indicador;Resultado
+Quantidade de vendas;10
+Quantidade total de itens;47
+Faturamento total (R$);2300.0
+Média por venda (R$);230.0
+Mediana (R$);210.0
+Moda (R$);150.00
+Menor venda (R$);100.0
+Maior venda (R$);400.0
+Amplitude (R$);300.0
+Variância populacional;8180.0
+Desvio-padrão populacional;90.44
+Nível de confiança;95%
+Erro padrão (R$);30.15
+Margem de erro (R$);68.2
+Limite inferior IC 95% (R$);161.8
+Limite superior IC 95% (R$);298.2
+Correlação de Pearson;0.9936
